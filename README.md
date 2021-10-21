@@ -1,2 +1,2 @@
-# CMP73001
+# CMP7310
 This is for assignment 1
